@@ -1,0 +1,44 @@
+.in-class{
+    border-radius: 20px;
+    
+}
+.prime-logo{
+    width: 90px;
+    border-style: none;
+    background-color: black;
+}
+.login-button{
+    height: 30px;
+    border-radius: 10px;
+    font-size: 13px;
+    text-align: center;
+}
+.att-class{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.navbar-ele{
+    font-weight: 500 !important;
+    text-align: left;
+}
+.hoverEle:hover{
+    color:black !important;
+}
+.hamburger{
+    text-decoration: none !important;
+    outline: none !important;
+}
+.side-shifter{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+@media screen and (min-width:992px){
+    #navbarNavAltMarkup{
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end;
+    }
+}
