@@ -7,7 +7,7 @@ const HeroSlider = () => {
        <Carousel className=''>
        <Carousel.Item interval={2000}>
         <div className='size'>
-          <img src="https://images.ottplay.com/images/40db48d5be203_news_cover.jpg?impolicy=ottplay-20210210&width=1200&height=675" alt="" className='firstDiv'/>
+          <img src="https://images.thedirect.com/media/article_full/mcu-infinity-saga.jpg?imgeng=cmpr_75/" alt="" className='firstDiv'/>
         </div>
       </Carousel.Item>
       <Carousel.Item interval={2000}>
