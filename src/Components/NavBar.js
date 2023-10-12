@@ -4,7 +4,6 @@ import './css/navBar.css';
 //import AppBar from '@mui/material/AppBar';
 //import Toolbar from '@mui/material/Toolbar';
 //import Typography from '@mui/material/Typography';
-import 'D:/Desktop/COLLEGE/SOC-III/react/myproject/node_modules/bootstrap/dist/css/bootstrap.css'
 import primelogo from './css/prime3.png';
 const NavBar = () => {
   return (
