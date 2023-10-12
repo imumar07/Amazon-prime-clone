@@ -6,13 +6,14 @@ const HeroSlider = () => {
     <>
        <Carousel className=''>
        <Carousel.Item interval={2000}>
-        <div className='size'>
-          <img src="https://images.thedirect.com/media/article_full/mcu-infinity-saga.jpg?imgeng=cmpr_75/" alt="" className='firstDiv'/>
+       <div className='size'>
+          <img src="https://www.joblo.com/wp-content/uploads/2014/10/interstellar-quad-nolan-1.jpg" alt="" className='firstDiv'/>
         </div>
+        
       </Carousel.Item>
       <Carousel.Item interval={2000}>
-        <div className='size'>
-          <img src="https://www.joblo.com/wp-content/uploads/2014/10/interstellar-quad-nolan-1.jpg" alt="" className='firstDiv'/>
+      <div className='size' >
+      <img src="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2023/05/meg-trench.png?w=1217&ssl=1" alt="" className='firstDiv'/>
         </div>
       </Carousel.Item>
       <Carousel.Item interval={2000}>
@@ -31,9 +32,10 @@ const HeroSlider = () => {
         </div>
       </Carousel.Item>
       <Carousel.Item interval={2000}>
-      <div className='size' >
-      <img src="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2023/05/meg-trench.png?w=1217&ssl=1" alt="" className='firstDiv'/>
+      <div className='size'>
+          <img src="https://images.thedirect.com/media/article_full/mcu-infinity-saga.jpg?imgeng=cmpr_75/" alt="" className='firstDiv'/>
         </div>
+      
       </Carousel.Item>
     </Carousel>
     </>
