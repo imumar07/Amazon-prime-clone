@@ -39,30 +39,22 @@ const Movies = () => {
     <div className="row">
     <div><h1 className=' m-3 pl-3 fixed'>Top Rated</h1></div>
       <div className="row-img">
-        <img className="row__poster" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGV89h3IJksBrHs6uSHG1NpbVx7RM6Xqwpsg&usqp=CAU" alt="" />
-
-        <img className="row__poster" src="https://pbs.twimg.com/media/EddldctUcAAX1rB.jpg:large" alt="" />
-
-        <img className="row__poster" src="https://i.ebayimg.com/images/g/4NQAAOSwyTpjk7dC/s-l1600.jpg" alt="" />
-
-        <img className="row__poster" src="https://i0.wp.com/news.qoo-app.com/en/wp-content/uploads/sites/3/2020/03/20030604132143.jpg?fit=1222%2C685&ssl=1" alt="" />
-
-        <img className="row__poster" src="https://www.konami.com/games/castlevania/s/img/info/info_gos_eu.jpg" alt="" />
-
+        <img className="row__poster" src="https://nypost.com/wp-content/uploads/sites/2/2022/12/jackryan.jpg?resize=1064,692&quality=75&strip=all" alt="" />
+        <img className="row__poster" src="https://static-koimoi.akamaized.net/wp-content/new-galleries/2021/06/the-family-man-review-001.jpg" alt="" />
+        <img className="row__poster" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Farzi.jpeg/330px-Farzi.jpeg" alt="" />
+        <img className="row__poster" src="https://images.ottplay.com/images/mumbai-diaries-watch-now-amazon-original-youtube-thumbnail-1645006198364-1645006198.jpg?impolicy=ottplay-20210210&width=1200&height=675" alt="" />
+        <img className="row__poster" src="https://filmycharcha.com/wp-content/uploads/2023/07/web-2023-07-07T121958.216-860x484.jpg" alt="" />
         <img className="row__poster" src="https://assets-in.bmscdn.com/discovery-catalog/events/et00353997-swlucaglwy-landscape.jpg" alt="" />
-
         <img className="row__poster" src="https://imgeng.jagran.com/images/2023/aug/BRO%20Box%20Office%20Collection%20day%20111691469017747.jpg" alt="" />
-
         <img className="row__poster" src="https://ntvb.tmsimg.com/assets/p10700229_b_h10_aa.jpg?w=960&h=540" alt="" />
-
         <img className="row__poster" src="images/small-movie8.jpg" alt="" />
-
         <img className="row__poster" src="images/small-movie8.jpg" alt="" />
       </div>
     </div>
     <div className="row">
     <div><h1 className=' m-3 pl-3 fixed'>Telugu Movies</h1></div>
       <div className="row-img">
+      <img className="row__poster" src="https://images.cinemaexpress.com/uploads/user/imagelibrary/2017/7/8/original/Ninnu-Kori_571BF1-D3C15C.jpg" alt="" />
         <img className="row__poster" src="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f5ae3ae5cca4c56b08cd100532e4076a5f005ef13004a92988eef82942be0b61._UY500_UX667_RI_TTW_.jpg" alt="" />
 
         <img className="row__poster" src="https://img.onmanorama.com/content/dam/mm/en/entertainment/entertainment-news/images/2020/11/28/master-vijay-movie.jpg" alt="" />
@@ -84,7 +76,22 @@ const Movies = () => {
         <img className="row__poster" src="https://img.onmanorama.com/content/dam/mm/en/entertainment/entertainment-news/images/2020/11/28/master-vijay-movie.jpg" alt="" />
       </div>
     </div>
-
+    <div className="row">
+    <div><h1 className=' m-3 pl-3 fixed'>Hindi Movies</h1></div>
+      <div className="row-img">
+      <img className="row__poster" src="https://i1.wp.com/dranshublog.com/wp-content/uploads/2019/01/tumbbad-movie.jpg?w=706&ssl=1" alt="" />
+        <img className="row__poster" src="https://tse1.mm.bing.net/th?id=OIP.lguaUNjLWyve_ZYw8UiwzQAAAA&pid=Api&P=0&h=180" alt="" />
+        <img className="row__poster" src="https://static.toiimg.com/thumb/69276105.cms?width=680&height=512&imgsize=154458" alt="" />
+        <img className="row__poster" src="https://img.theweek.in/content/dam/week/review/movies/2019/images/2019/hrithik-tiger-war.jpg" alt="" />
+        <img className="row__poster" src="https://filmfare.wwmindia.com/content/2023/aug/chakdeindia101691652438.jpg" alt="" />
+        
+        <img className="row__poster" src="https://assets-in.bmscdn.com/discovery-catalog/events/et00353997-swlucaglwy-landscape.jpg" alt="" />
+        <img className="row__poster" src="https://imgeng.jagran.com/images/2023/aug/BRO%20Box%20Office%20Collection%20day%20111691469017747.jpg" alt="" />
+        <img className="row__poster" src="https://ntvb.tmsimg.com/assets/p10700229_b_h10_aa.jpg?w=960&h=540" alt="" />
+        <img className="row__poster" src="images/small-movie8.jpg" alt="" />
+        <img className="row__poster" src="images/small-movie8.jpg" alt="" />
+      </div>
+    </div>
     
     <div className="row">
     <div><h1 className=' m-3 pl-3 fixed'>Anime Series</h1></div>
