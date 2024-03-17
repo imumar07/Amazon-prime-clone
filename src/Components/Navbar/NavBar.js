@@ -1,10 +1,10 @@
 import React from 'react';
-import './css/navBar.css';
+import './navBar.css';
 //import { Link } from 'react-router-dom';
 //import AppBar from '@mui/material/AppBar';
 //import Toolbar from '@mui/material/Toolbar';
 //import Typography from '@mui/material/Typography';
-import primelogo from './css/prime3.png';
+import primelogo from './prime3.png';
 const NavBar = () => {
   return (
     <nav class="navbar navbar-expand-lg navbar-dark  bg-black p-1 pt-2 pl-3 pr-2">
