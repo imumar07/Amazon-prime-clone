@@ -1,6 +1,7 @@
 import React from 'react';
-import './css/fotter.css';
-const Fottter = () => {
+import './fotter.css';
+
+const Fotter = () => {
   return (
     <div className='outer'>
       <p>Copyright © 2023 @ All rights reserved Amazon.com</p>    
@@ -9,4 +10,4 @@ const Fottter = () => {
   )
 }
 
-export default Fottter
+export default Fotter

@@ -1,7 +1,7 @@
-import NavBar from "./Components/NavBar";
-import HeroSlider from "./Components/HeroSlider";
-import Fotter from "./Components/Fotter"
-import Movies from "./Components/Movies";
+import NavBar from "./Components/Navbar/NavBar";
+import HeroSlider from "./Components/HeroSlider/HeroSlider";
+import Fotter from "./Components/Fotter/Fotter";
+import Movies from "./Components/Movies/Movies";
 import '../node_modules/bootstrap/dist/css/bootstrap.css'
 function App() {
   return (
